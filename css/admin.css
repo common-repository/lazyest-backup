@@ -1,0 +1,48 @@
+#icon-backup {
+  background: url('images/zip.png') no-repeat scroll top left transparent;
+}
+a.download { 
+	background-image: url('images/downloadit.png'); 
+	background-repeat: no-repeat;
+	padding: 5px 8px 5px 26px; 
+	background-position: 8px 3px;
+	margin-right:12px;
+}
+
+input.create { 
+	background-image: url('images/zipit.png'); 
+	background-repeat: no-repeat;
+	padding: 6px 8px 6px 26px; 
+	background-position: 8px 3px;
+}
+
+input.restore { 
+	background-image: url('images/restoreit.png'); 
+	background-repeat: no-repeat;
+	padding: 6px 8px 6px 26px; 
+	background-position: 8px 3px;
+}
+
+input.upload { 
+	background-image: url('images/uploadit.png'); 
+	background-repeat: no-repeat;
+	padding: 6px 8px 6px 26px; 
+	background-position: 8px 3px;	
+}
+
+input.erase, input.restore {
+	margin-bottom: -6px;
+}
+
+input[disabled], input[disabled]:hover {
+	background-image: none;
+	color:gray;
+	border-color:#bbb;
+}
+
+.submit input.file {
+	border:none;
+	background:none;
+}
+
+#zipper-div { margin-left: 12px; }

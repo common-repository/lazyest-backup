@@ -1,0 +1,149 @@
+# Copyright (C) 2011 Brimosoft
+# This file is distributed under the same license as the Lazyest Backup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazyest Backup 0.2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lazyest-backup\n"
+"POT-Creation-Date: 2011-11-24 10:15:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lazyest-backup.php:67
+msgid "Lazyest Gallery Backup"
+msgstr ""
+
+#: lazyest-backup.php:67
+msgid "Backup"
+msgstr ""
+
+#: lazyest-backup.php:101
+msgid "Ready"
+msgstr ""
+
+#: lazyest-backup.php:102
+msgid "The archive process is currently running"
+msgstr ""
+
+#: lazyest-backup.php:103
+msgid "The restore process is currently running"
+msgstr ""
+
+#: lazyest-backup.php:104
+msgid "Analyzing..."
+msgstr ""
+
+#: lazyest-backup.php:105
+msgid "Archiving..."
+msgstr ""
+
+#: lazyest-backup.php:106
+msgid "Restoring..."
+msgstr ""
+
+#: lazyest-backup.php:125
+msgid "This is not a valid archive"
+msgstr ""
+
+#: lazyest-backup.php:126
+msgid "Could not rename existing archive"
+msgstr ""
+
+#: lazyest-backup.php:128
+msgid "This archive exceeds the maximum upload size"
+msgstr ""
+
+#: lazyest-backup.php:129
+msgid "The archive was only partially uploaded."
+msgstr ""
+
+#: lazyest-backup.php:131
+msgid "An error occurred, no archive was uploaded."
+msgstr ""
+
+#: lazyest-backup.php:137
+msgid "%s files restored"
+msgstr ""
+
+#: lazyest-backup.php:140
+msgid "The archive does not contain Lazyest Gallery files"
+msgstr ""
+
+#: lazyest-backup.php:141
+msgid "The archive does not exist"
+msgstr ""
+
+#: lazyest-backup.php:142
+msgid "Could not open the archive"
+msgstr ""
+
+#: lazyest-backup.php:143
+msgid "An error occurred during restore"
+msgstr ""
+
+#: lazyest-backup.php:157
+msgid "Archive created successfully"
+msgstr ""
+
+#: lazyest-backup.php:158
+msgid "Could not create Archive"
+msgstr ""
+
+#: lazyest-backup.php:163
+msgid "Archive erased successfully"
+msgstr ""
+
+#: lazyest-backup.php:164
+msgid "Could not erase Archive"
+msgstr ""
+
+#: lazyest-backup.php:169
+msgid "Archive uploaded successfully to %s"
+msgstr ""
+
+#: lazyest-backup.php:494
+msgid "You have currently no archive available"
+msgstr ""
+
+#: lazyest-backup.php:501
+msgid "%s created on %s at %s"
+msgstr ""
+
+#: lazyest-backup.php:502 lazyest-backup.php:536
+msgid "Download current archive"
+msgstr ""
+
+#: lazyest-backup.php:507
+msgid "Delete this archive"
+msgstr ""
+
+#: lazyest-backup.php:526
+msgid "Backup your Gallery"
+msgstr ""
+
+#: lazyest-backup.php:532
+msgid "Your current archive"
+msgstr ""
+
+#: lazyest-backup.php:540
+msgid "Upload archive from Computer"
+msgstr ""
+
+#: lazyest-backup.php:543
+msgid "Backup / Restore captions.xml files only."
+msgstr ""
+
+#: lazyest-backup.php:546
+msgid "Backup / Restore images and captions.xml files."
+msgstr ""
+
+#: lazyest-backup.php:549
+msgid "Create a new archive"
+msgstr ""
+
+#: lazyest-backup.php:549
+msgid "Restore current archive"
+msgstr ""
